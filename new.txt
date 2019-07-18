@@ -1,1 +1,3 @@
 this is new text.
+
+change in branch A
